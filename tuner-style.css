@@ -7,4 +7,6 @@ main {color: rgb(255, 60, 0);
      background-color: rgba(255, 230, 0, 0.658);}
      
 #instruments-list {border: 5px solid rgba(252, 19, 240, 0.562);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     background-color: rgba(223, 115, 223, 0.664);}
