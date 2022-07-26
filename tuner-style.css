@@ -2,7 +2,8 @@
     background-color: aquamarine;}
 
 /* body {background-color: rgb(16, 173, 121);} */
-body {background-image: url(Image\ Source/Stars01.jpg)}
+body {background-image: url(Image\ Source/Stars01.jpg);
+    background-size: cover;}
 
 main {color: rgb(255, 60, 0);
      background-color: rgba(255, 230, 0, 0.658);}
