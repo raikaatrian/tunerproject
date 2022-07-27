@@ -10,10 +10,15 @@ body {background-image: url(Image\ Source/Stars01.jpg);
 
 main {color: rgba(255, 60, 0, 0.85);
     background-color: rgba(255, 230, 0, 0.658);
+    padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
-    margin: 3px;}
-#note {margin: 0px;}
+    margin: 5px;}
+
+main h1 {margin: 0px 0px 10px 30px;
+    max-width: max-content;
+    background-color: rgba(255, 230, 0, 0.884);
+    outline: auto rgba(255, 230, 0, 0.884);}
 
 button {color: rgb(255, 230, 0);
     background-color: rgba(255, 60, 0, 0.85);}
